@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-first-react-and-supabase-project/static/css/main.8975ec70.chunk.css",
+    "main.js": "/my-first-react-and-supabase-project/static/js/main.cc0c74fa.chunk.js",
+    "main.js.map": "/my-first-react-and-supabase-project/static/js/main.cc0c74fa.chunk.js.map",
+    "runtime-main.js": "/my-first-react-and-supabase-project/static/js/runtime-main.f20aefaa.js",
+    "runtime-main.js.map": "/my-first-react-and-supabase-project/static/js/runtime-main.f20aefaa.js.map",
+    "static/js/2.13ba78f0.chunk.js": "/my-first-react-and-supabase-project/static/js/2.13ba78f0.chunk.js",
+    "static/js/2.13ba78f0.chunk.js.map": "/my-first-react-and-supabase-project/static/js/2.13ba78f0.chunk.js.map",
+    "index.html": "/my-first-react-and-supabase-project/index.html",
+    "static/css/main.8975ec70.chunk.css.map": "/my-first-react-and-supabase-project/static/css/main.8975ec70.chunk.css.map",
+    "static/js/2.13ba78f0.chunk.js.LICENSE.txt": "/my-first-react-and-supabase-project/static/js/2.13ba78f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f20aefaa.js",
+    "static/js/2.13ba78f0.chunk.js",
+    "static/css/main.8975ec70.chunk.css",
+    "static/js/main.cc0c74fa.chunk.js"
+  ]
+}
