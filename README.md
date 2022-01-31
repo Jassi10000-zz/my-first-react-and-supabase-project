@@ -1,1 +1,1 @@
-# chat-app-with-supabase
+# React and Supabase project
